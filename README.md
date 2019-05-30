@@ -1,8 +1,39 @@
 # watermelon
 demo for may 30
-<<<<<<< HEAD
+
   hello i am andrew 
-=======
+
 <h1>Hello</h1>
 <p><b>i am andrew</b></p>
->>>>>>> 8cba65028df1141a26d69ca3aed4e25d818bb153
+
+
+
+My name is Snake
+
+Hello£¡
+I am Jimmy Jiang!
+
+
+
+
+Ada  Ada Ada
+
+Hello,i am Lisbon
+
+
+
+
+Hello  My name is Zed and I like dance!  ! £¡£¡£¡£¡
+six six six 
+
+Hello,i am Lisbon
+
+
+
+Hello I am ben
+
+Hello I am Saki and I love dou-jiang!
+<h1>Hello</h1>
+<p><b>My name is Vincent and I was here first!!</b></p>
+
+
