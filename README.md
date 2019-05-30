@@ -2,12 +2,25 @@
 demo for may 30
 
 
+
 i love everything
+
+My name is Snake
+
+Hello£¡
+I am Jimmy Jiang!
+
+
 
 
 Ada  Ada Ada
 
 Hello,i am Lisbon
+
+
+
+
+
 
 
 Hello  My name is Zed and I like dance!  ! £¡£¡£¡£¡
