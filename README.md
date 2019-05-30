@@ -8,6 +8,12 @@ demo for may 30
 
 
 
+
+ALLEN COMING!
+
+
+i love everything
+
 My name is Snake
 
 Hello£¡
@@ -22,11 +28,13 @@ Hello,i am Lisbon
 
 
 
-
 Hello  My name is Zed and I like dance!  ! £¡£¡£¡£¡
 six six six 
 
 Hello,i am Lisbon
+
+
+
 
 
 
