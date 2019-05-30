@@ -1,8 +1,6 @@
 # watermelon
 demo for may 30
-<<<<<<< HEAD
-HEAD
-=======
+
 
   hello i am andrew 
 
@@ -34,7 +32,7 @@ six six six
 Hello,i am Lisbon
 
 
-who am i
+where i am
 
 
 
